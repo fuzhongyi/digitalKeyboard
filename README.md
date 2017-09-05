@@ -1,5 +1,5 @@
-# digitalKeyoard
-The digitalKeyoard plug-in by jquery
+# digitalKeyboard
+The digitalKeyboard plug-in by jquery
 ## use
 
 ```javascript
