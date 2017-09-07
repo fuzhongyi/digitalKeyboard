@@ -8,3 +8,5 @@ $("#demo").numKey({
     disorder: false //键位随机
 });
 ```
+## show-how
+![](https://raw.githubusercontent.com/fuzhongyi/digitalKeyboard/master/digitalKeyboard/show-how.gif)
